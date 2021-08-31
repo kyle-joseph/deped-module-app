@@ -1,0 +1,60 @@
+Expanded(
+                child: Container(
+                  padding:
+                      EdgeInsets.only(left: 25, right: 25, top: 15, bottom: 25),
+                  width: MediaQuery.of(context).size.width,
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.only(
+                      topLeft: Radius.circular(90),
+                    ),
+                    color: Colors.white,
+                  ),
+                  child: Column(
+                    children: [
+                      Container(
+                        margin: EdgeInsets.only(
+                          bottom: 25,
+                        ),
+                        child: Row(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          crossAxisAlignment: CrossAxisAlignment.center,
+                          children: [
+                            Expanded(
+                              child: Container(
+                                padding: EdgeInsets.only(
+                                  left: 10,
+                                ),
+                                child: Text(
+                                  'Navigate through four quarters.',
+                                  style: Theme.of(context).textTheme.subtitle2,
+                                ),
+                              ),
+                            ),
+                            Container(
+                              child: Image.asset(
+                                'assets/images/study.png',
+                                filterQuality: FilterQuality.high,
+                                width: MediaQuery.of(context).size.width * 0.4,
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                      Expanded(
+                        child: Container(
+                          width: MediaQuery.of(context).size.width,
+                          child: GridView.count(
+                            crossAxisCount: 2,
+                            children: [
+                              Folder('Quarter 1', Color(0xff5128EB)),
+                              Folder('Quarter 2', Color(0xffEC2363)),
+                              Folder('Quarter 3', Color(0xff00BB7A)),
+                              Folder('Quarter 4', Color(0xff4167F7)),
+                            ],
+                          ),
+                        ),
+                      )
+                    ],
+                  ),
+                ),
+              )

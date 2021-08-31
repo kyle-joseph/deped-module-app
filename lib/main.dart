@@ -1,5 +1,8 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:module_app/screens/courses/courses.dart';
 import 'package:module_app/screens/home/home.dart';
+import 'package:flutter/services.dart';
 
 void main() {
   runApp(MyApp());
@@ -8,6 +11,10 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+    ]);
+
     return MaterialApp(
       title: 'Grade 3 Modules',
       theme: ThemeData(
@@ -36,10 +43,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      initialRoute: '/',
-      routes: {
-        '/': (context) => HomeScreen(),
-      },
+      home: HomeScreen(),
     );
   }
 }

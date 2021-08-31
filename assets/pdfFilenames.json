@@ -1,0 +1,27 @@
+{
+    "modules": [
+        {
+            "Quarter1": [
+                {
+                    "AP 3": [
+                        "assets/modules/AP 3/AP3_Q1_Mod1.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod2.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod3.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod4.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod5.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod6.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod7.pdf",
+                        "assets/modules/AP 3/AP3_Q1_Mod8.pdf"
+                    ]
+                },
+                { "English 3": ["Eng1.pdf", "Eng2.pdf"] },
+                { "ESP 3": ["Eng1.pdf", "Eng2.pdf"] },
+                { "Filipino 3": ["Eng1.pdf", "Eng2.pdf"] },
+                { "MAPEH 3 ": ["Eng1.pdf", "Eng2.pdf"] },
+                { "Math 3": ["Eng1.pdf", "Eng2.pdf"] },
+                { "MTB-MLE 3": ["Eng1.pdf", "Eng2.pdf"] },
+                { "Science 3": ["Eng1.pdf", "Eng2.pdf"] }
+            ]
+        }
+    ]
+}

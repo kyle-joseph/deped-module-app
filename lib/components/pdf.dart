@@ -1,27 +1,26 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:module_app/screens/courses/courses.dart';
 
-class Folder extends StatelessWidget {
+class Pdf extends StatelessWidget {
   final String folderTitle;
   final Color folderColor;
 
-  Folder(this.folderTitle, this.folderColor);
+  Pdf(this.folderTitle, this.folderColor);
 
   @override
   Widget build(BuildContext context) {
     return Container(
       child: TextButton(
         onPressed: () {
-          Navigator.push(
-              context,
-              CupertinoPageRoute(
-                  builder: (context) => CoursesScreen(folderTitle)));
+          // Navigator.push(
+          //     context,
+          //     CupertinoPageRoute(
+          //         builder: (context) => CoursesScreen(folderTitle)));
         },
         child: Column(
           children: [
             Icon(
-              Icons.folder,
+              Icons.picture_as_pdf,
               color: folderColor,
               size: MediaQuery.of(context).size.width * 0.32,
             ),
