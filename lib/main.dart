@@ -1,6 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:module_app/screens/courses/courses.dart';
 import 'package:module_app/screens/home/home.dart';
 import 'package:flutter/services.dart';
 

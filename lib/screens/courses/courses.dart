@@ -7,8 +7,6 @@ class CoursesScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var data = ModalRoute.of(context)!.settings.arguments;
-    print("$data hello");
     return Scaffold(
       appBar: AppBar(
         title: Text(

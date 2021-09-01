@@ -51,6 +51,14 @@ flutter:
   assets:
     - assets/images/
     - assets/pdfFilenames.json
+    - assets/modules/Quarter 1/AP 3/
+    - assets/modules/Quarter 1/English 3/
+    - assets/modules/Quarter 1/ESP 3/
+    - assets/modules/Quarter 1/Filipino 3/
+    - assets/modules/Quarter 1/MAPEH 3/
+    - assets/modules/Quarter 1/Math 3/
+    - assets/modules/Quarter 1/MTB-MLE 3/
+    - assets/modules/Quarter 1/Science 3/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
