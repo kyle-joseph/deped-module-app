@@ -95,10 +95,22 @@ class HomeBody extends StatelessWidget {
                           child: GridView.count(
                             crossAxisCount: 2,
                             children: [
-                              Folder('Quarter 1', Color(0xff5128EB)),
-                              Folder('Quarter 2', Color(0xffEC2363)),
-                              Folder('Quarter 3', Color(0xff00BB7A)),
-                              Folder('Quarter 4', Color(0xff4167F7)),
+                              Folder(
+                                  folderTitle: 'Quarter 1',
+                                  folderColor: Color(0xff5128EB),
+                                  quarterIndex: 0),
+                              Folder(
+                                  folderTitle: 'Quarter 2',
+                                  folderColor: Color(0xffEC2363),
+                                  quarterIndex: 1),
+                              Folder(
+                                  folderTitle: 'Quarter 3',
+                                  folderColor: Color(0xff00BB7A),
+                                  quarterIndex: 2),
+                              Folder(
+                                  folderTitle: 'Quarter 4',
+                                  folderColor: Color(0xff4167F7),
+                                  quarterIndex: 3),
                             ],
                           ),
                         ),

@@ -1,84 +1,85 @@
 [
-    {
-        "Quarter1": [
-            {
-                "course": "AP 3",
-                "file": [
-                    {
-                        "filename": "AP3_Q1_Mod1.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod1.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod2.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod2.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod3.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod3.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod4.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod4.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod5.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod5.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod6.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod6.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod7.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod7.pdf"
-                    },
-                    {
-                        "filename": "AP3_Q1_Mod8.pdf",
-                        "location": "assets/modules/AP 3/AP3_Q1_Mod8.pdf"
-                    }
-                ]
-            },
-            {
-                "course": "English 3",
-                "file": [
-                    {
-                        "filename": "English3_Q1_Mod1.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod1.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod2.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod2.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod3.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod3.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod4.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod4.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod5.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod5.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod61.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod6.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod7.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod7.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod8.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod8.pdf"
-                    },
-                    {
-                        "filename": "English3_Q1_Mod9.pdf",
-                        "location": "assets/modules/English 3/English3_Q1_Mod9.pdf"
-                    }
-                ]
-            }
-        ]
-    }
+    [
+        {
+            "course": "AP 3",
+            "file": [
+                {
+                    "filename": "AP3_Q1_Mod1.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod2.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod3.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod3.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod4.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod5.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod6.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod7.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "AP3_Q1_Mod8.pdf",
+                    "location": "assets/modules/AP 3/AP3_Q1_Mod8.pdf"
+                }
+            ]
+        },
+        {
+            "course": "English 3",
+            "file": [
+                {
+                    "filename": "English3_Q1_Mod1.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod2.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod3.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod3.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod4.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod5.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod61.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod7.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod8.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod8.pdf"
+                },
+                {
+                    "filename": "English3_Q1_Mod9.pdf",
+                    "location": "assets/modules/English 3/English3_Q1_Mod9.pdf"
+                }
+            ]
+        }
+    ],
+    [],
+    [],
+    []
 ]

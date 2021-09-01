@@ -1,12 +1,17 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:module_app/screens/courses/courses.dart';
+import 'package:module_app/screens/module_list/moduleList.dart';
 
 class Folder extends StatelessWidget {
   final String folderTitle;
   final Color folderColor;
+  final int quarterIndex;
 
-  Folder(this.folderTitle, this.folderColor);
+  Folder(
+      {required this.folderTitle,
+      required this.folderColor,
+      required this.quarterIndex});
 
   @override
   Widget build(BuildContext context) {
@@ -16,7 +21,8 @@ class Folder extends StatelessWidget {
           Navigator.push(
               context,
               CupertinoPageRoute(
-                  builder: (context) => CoursesScreen(folderTitle)));
+                  builder: (context) => CoursesScreen(
+                      quarterTitle: folderTitle, quarterIndex: quarterIndex)));
         },
         child: Column(
           children: [
@@ -41,10 +47,18 @@ class Folder extends StatelessWidget {
 }
 
 class FolderPdf extends StatelessWidget {
-  final String folderTitle;
-  final Color folderColor;
+  final String quarterTitle;
+  final String courseTitle;
+  final Color courseColor;
+  final int quarterIndex;
+  final int courseIndex;
 
-  FolderPdf(this.folderTitle, this.folderColor);
+  FolderPdf(
+      {required this.quarterTitle,
+      required this.courseTitle,
+      required this.courseColor,
+      required this.quarterIndex,
+      required this.courseIndex});
 
   @override
   Widget build(BuildContext context) {
@@ -54,17 +68,20 @@ class FolderPdf extends StatelessWidget {
           Navigator.push(
               context,
               CupertinoPageRoute(
-                  builder: (context) => CoursesScreen(folderTitle)));
+                  builder: (context) => ModuleListScreen(
+                      appbarTitle: "$quarterTitle-$courseTitle",
+                      quarterIndex: quarterIndex,
+                      courseIndex: courseIndex)));
         },
         child: Column(
           children: [
             Icon(
               Icons.folder,
-              color: folderColor,
+              color: courseColor,
               size: MediaQuery.of(context).size.width * 0.32,
             ),
             Text(
-              folderTitle,
+              courseTitle,
               style: TextStyle(
                 fontFamily: 'Arial',
                 fontSize: 16,

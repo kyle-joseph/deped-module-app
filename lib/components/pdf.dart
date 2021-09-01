@@ -2,10 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class Pdf extends StatelessWidget {
-  final String folderTitle;
-  final Color folderColor;
+  final String pdfFilename;
+  final Color pdfColor;
 
-  Pdf(this.folderTitle, this.folderColor);
+  Pdf({required this.pdfFilename, required this.pdfColor});
 
   @override
   Widget build(BuildContext context) {
@@ -21,11 +21,11 @@ class Pdf extends StatelessWidget {
           children: [
             Icon(
               Icons.picture_as_pdf,
-              color: folderColor,
+              color: pdfColor,
               size: MediaQuery.of(context).size.width * 0.32,
             ),
             Text(
-              folderTitle,
+              pdfFilename,
               style: TextStyle(
                 fontFamily: 'Arial',
                 fontSize: 16,
