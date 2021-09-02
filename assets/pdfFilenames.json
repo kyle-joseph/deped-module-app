@@ -5,35 +5,35 @@
             "file": [
                 {
                     "filename": "AP3_Q1_Mod1.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod1.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod1.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod2.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod2.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod2.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod3.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod3.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod3.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod4.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod4.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod4.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod5.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod5.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod5.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod6.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod6.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod6.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod7.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod7.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod7.pdf"
                 },
                 {
                     "filename": "AP3_Q1_Mod8.pdf",
-                    "location": "assets/modules/AP 3/AP3_Q1_Mod8.pdf"
+                    "location": "assets/modules/Quarter 1/AP 3/AP3_Q1_Mod8.pdf"
                 }
             ]
         },
@@ -42,39 +42,261 @@
             "file": [
                 {
                     "filename": "English3_Q1_Mod1.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod1.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod1.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod2.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod2.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod2.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod3.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod3.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod3.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod4.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod4.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod4.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod5.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod5.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod5.pdf"
                 },
                 {
-                    "filename": "English3_Q1_Mod61.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod6.pdf"
+                    "filename": "English3_Q1_Mod6.pdf",
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod6.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod7.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod7.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod7.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod8.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod8.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod8.pdf"
                 },
                 {
                     "filename": "English3_Q1_Mod9.pdf",
-                    "location": "assets/modules/English 3/English3_Q1_Mod9.pdf"
+                    "location": "assets/modules/Quarter 1/English 3/English3_Q1_Mod9.pdf"
+                }
+            ]
+        },
+        {
+            "course": "ESP 3",
+            "file": [
+                {
+                    "filename": "ESP3_Q1_Mod1.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod2.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod3.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod3.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod4.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod5.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod6.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod7.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "ESP3_Q1_Mod8.pdf",
+                    "location": "assets/modules/Quarter 1/ESP 3/ESP3_Q1_Mod8.pdf"
+                }
+            ]
+        },
+        {
+            "course": "Filipino 3",
+            "file": [
+                {
+                    "filename": "Filipino3_Q1_Mod1.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod2.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod3.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod3.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod4.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod5.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod6.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod7.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "Filipino3_Q1_Mod8.pdf",
+                    "location": "assets/modules/Quarter 1/Filipino 3/Filipino3_Q1_Mod8.pdf"
+                }
+            ]
+        },
+        {
+            "course": "MAPEH 3",
+            "file": [
+                {
+                    "filename": "Arts3_Q1_Mod1_Aralin1-4.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Arts3_Q1_Mod1_Aralin1-4.pdf"
+                },
+                {
+                    "filename": "Arts3_Q1_Mod2_Aralin5-8.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Arts3_Q1_Mod2_Aralin5-8.pdf"
+                },
+                {
+                    "filename": "Health3_Q1_Mod1_Aralin1-4.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Health3_Q1_Mod1_Aralin1-4.pdf"
+                },
+                {
+                    "filename": "Health3_Q1_Mod2_Aralin5-8.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Health3_Q1_Mod2_Aralin5-8.pdf"
+                },
+                {
+                    "filename": "Music3_Q1_Mod1_Aralin1-4.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Music3_Q1_Mod1_Aralin1-4.pdf"
+                },
+                {
+                    "filename": "Music3_Q1_Mod2_Aralin5-8.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/Music3_Q1_Mod2_Aralin5-8.pdf"
+                },
+                {
+                    "filename": "PE3_Q1_Mod1_Aralin1-4.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/PE3_Q1_Mod1_Aralin1-4.pdf"
+                },
+                {
+                    "filename": "PE3_Q1_Mod2_Aralin5-8.pdf",
+                    "location": "assets/modules/Quarter 1/MAPEH 3/PE3_Q1_Mod2_Aralin5-8.pdf"
+                }
+            ]
+        },
+        {
+            "course": "Math 3",
+            "file": [
+                {
+                    "filename": "Math3_Q1_Mod1.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod2.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod3.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod4.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod5.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod6.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod7.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "Math3_Q1_Mod9.pdf",
+                    "location": "assets/modules/Quarter 1/Math 3/Math3_Q1_Mod9.pdf"
+                }
+            ]
+        },
+        {
+            "course": "MTB-MLE 3",
+            "file": [
+                {
+                    "filename": "MTB-MLE-3-Q1-W1.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W1.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W2.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W2.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W3.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W3.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W4.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W4.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W5.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W5.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W6.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W6.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W7.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W7.pdf"
+                },
+                {
+                    "filename": "MTB-MLE-3-Q1-W8.pdf",
+                    "location": "assets/modules/Quarter 1/MTB-MLE 3/MTB-MLE-3-Q1-W8.pdf"
+                }
+            ]
+        },
+        {
+            "course": "Science 3",
+            "file": [
+                {
+                    "filename": "Science3_Q1_Mod1.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod1.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod2.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod2.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod3.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod3.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod4.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod4.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod5.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod5.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod6.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod6.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod7.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod7.pdf"
+                },
+                {
+                    "filename": "Science3_Q1_Mod8.pdf",
+                    "location": "assets/modules/Quarter 1/Science 3/Science3_Q1_Mod8.pdf"
                 }
             ]
         }

@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:module_app/components/pdf.dart';
@@ -30,6 +29,11 @@ class _ModuleListBodyState extends State<ModuleListBody> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      padding: EdgeInsets.only(
+        left: 15,
+        right: 15,
+        top: 15,
+      ),
       width: MediaQuery.of(context).size.width,
       height: MediaQuery.of(context).size.height,
       child: GridView.builder(
@@ -46,8 +50,10 @@ class _ModuleListBodyState extends State<ModuleListBody> {
           List file = data[widget.quarterIndex][widget.courseIndex]["file"];
           print(file);
           return Pdf(
-              pdfFilename: file[index]["filename"],
-              pdfColor: Color(0xff71777F));
+            pdfFilename: file[index]["filename"],
+            pdfColor: Color(0xffD53D3C),
+            path: file[index]["location"],
+          );
         },
       ),
     );
